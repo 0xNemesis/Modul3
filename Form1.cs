@@ -44,7 +44,18 @@ namespace Modul3_103022400010
 
         private void btnConvert_Click(object sender, EventArgs e)
         {
-            double nilai = Convert.ToDouble(txtNilaiAwal.Text);
+            if (comboBox1.SelectedItem == null || comboBox2.SelectedItem == null)
+            {
+                MessageBox.Show("Pilih satuan terlebih dahulu!");
+                return;
+            }
+            double nilai;
+
+            if(!double.TryParse(txtNilaiAwal.Text, out nilai))
+            {
+                MessageBox.Show("Masukkan angka yang valid!");
+                return;
+            }
 
             string dari = comboBox1.SelectedItem.ToString();
             string ke = comboBox2.SelectedItem.ToString();
