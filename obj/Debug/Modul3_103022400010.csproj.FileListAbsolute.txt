@@ -1,0 +1,10 @@
+C:\Users\ando0\source\repos\Modul3_103022400010\Modul3_103022400010\bin\Debug\Modul3_103022400010.exe.config
+C:\Users\ando0\source\repos\Modul3_103022400010\Modul3_103022400010\bin\Debug\Modul3_103022400010.exe
+C:\Users\ando0\source\repos\Modul3_103022400010\Modul3_103022400010\bin\Debug\Modul3_103022400010.pdb
+C:\Users\ando0\source\repos\Modul3_103022400010\Modul3_103022400010\obj\Debug\Modul3_103022400010.csproj.AssemblyReference.cache
+C:\Users\ando0\source\repos\Modul3_103022400010\Modul3_103022400010\obj\Debug\Modul3_103022400010.Form1.resources
+C:\Users\ando0\source\repos\Modul3_103022400010\Modul3_103022400010\obj\Debug\Modul3_103022400010.Properties.Resources.resources
+C:\Users\ando0\source\repos\Modul3_103022400010\Modul3_103022400010\obj\Debug\Modul3_103022400010.csproj.GenerateResource.cache
+C:\Users\ando0\source\repos\Modul3_103022400010\Modul3_103022400010\obj\Debug\Modul3_103022400010.csproj.CoreCompileInputs.cache
+C:\Users\ando0\source\repos\Modul3_103022400010\Modul3_103022400010\obj\Debug\Modul3_103022400010.exe
+C:\Users\ando0\source\repos\Modul3_103022400010\Modul3_103022400010\obj\Debug\Modul3_103022400010.pdb
